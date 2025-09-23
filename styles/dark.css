@@ -6,8 +6,9 @@
 
 :root.theme-dark {
   --color-accent: rgba(255, 0, 112, 1);
+  --color-decor: rgba(255, 0, 112, 1);
   --color-accent-transparent: rgba(255, 0, 112, 0.4);
-  --bg-image: url(/images/cover-image-dark.png);
+  --bg-image: url("../images/cover-image-dark.png");
   --color-bg-main: rgba(0, 0, 40, 1);
   --color-primary: rgba(219, 0, 255, 1);
   --color-text-main: rgba(241, 178, 206, 1);

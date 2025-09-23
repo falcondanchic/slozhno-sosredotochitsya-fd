@@ -8,7 +8,7 @@
   --color-accent: rgba(53, 52, 48, 1);
   --color-decor: rgba(255, 141, 203, 1);
   --color-accent-transparent: rgba(50, 49, 45, 0.4);
-  --bg-image: url(/images/cover-image-light.png);
+  --bg-image: url("../images/cover-image-light.png");
   --color-bg-main: rgba(255, 241, 247, 1);
   --color-primary: rgba(255, 194, 230, 1);
   --color-text-main: rgba(53, 52, 48, 1);
@@ -24,7 +24,7 @@
     --color-accent: rgba(53, 52, 48, 1);
     --color-decor: rgba(255, 141, 203, 1);
     --color-accent-transparent: rgba(50, 49, 45, 0.4);
-    --bg-image: url(/images/cover-image-light.png);
+    --bg-image: url("../images/cover-image-light.png");
     --color-bg-main: rgba(255, 241, 247, 1);
     --color-primary: rgba(255, 194, 230, 1);
     --color-text-main: rgba(53, 52, 48, 1);
